@@ -1,0 +1,176 @@
+body{
+}
+
+#sideBar{
+    width: 95%;
+}
+
+#logo{
+ 	background: url(../images/logo_mobile.png) no-repeat;
+ 	}
+
+.employee{
+	width:50%;
+	}
+	
+.employeeInfo {
+    float: left;
+    width: 98%;
+}	
+	
+	
+#mainContainer {
+    margin-left: 10px;
+    top: 91px;
+}
+
+#workContainer{
+    margin-left: 10px;
+    top: 120px;
+}
+
+.mainNav {
+ left: 0;
+}
+
+.mainNav li {
+}
+
+#navUnderline {
+}
+
+.wwwContent{
+    
+    position:relative;
+    float:left;
+}
+
+.aboutSide {
+    float:left;
+    width:100%;
+    position:relative;
+    left:0px;
+}
+
+#profiles{
+    
+    float:left;
+    position:relative;
+    width: 100%;
+}
+
+#mainAbout {
+    margin-left:5px;
+    top:100px;
+}
+
+#mainHeader p {
+	font-size: 26px;
+    line-height: 23px;
+    padding-bottom: 22px;
+}
+
+.sideContent {
+    left:5px;
+    width:100%;
+}
+
+
+.whatBox{
+    
+     float: left;
+    margin-right: 16px;
+    position: relative;
+    width: 45%;
+}
+
+.stripBar {
+	margin-left: -280px;
+    width: 97% !important;
+}
+.sideContent li {
+    background-color: #E2E2E2;
+    float: left;
+    margin-right: 16px;
+    padding: 6px;
+    position: relative;
+}
+
+.sideContent p {
+    font-size: 12px;
+}
+
+.sideContent h2 {
+    font-size: 21px;
+}
+
+#logo{
+    
+    width:119px;
+    left: 2px;
+}
+
+#sideBar{
+	position:absolute;
+	z-index:50;
+	left:0px;
+	width:100%;
+	padding-right:0px;
+	top: 7px;
+	height: 100% !important;
+	display:none;
+}
+
+#openNav{
+	background-color: #EEEEEE;
+    clear: both;
+    cursor: pointer;
+    display: block;
+    float: left;
+    left: -108px;
+    padding: 8px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 53px;
+}    
+    
+#workNav {
+    background-color: #FFFFFF;
+    float: left;
+    height: 100%;
+    left: 0;
+    padding-left: 10px;
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 50;
+}
+
+#workNav ul {
+    float: left;
+    margin-left: 30px;
+    } 
+
+#closeNav{
+	background: url(../images/close.png);
+	float: left;
+    height: 20px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    width: 20px;
+    z-index: 340;
+    display:none;
+    cursor:pointer;
+}
+
+
+#contactInfo p{
+   font-size: 30px;
+    line-height: 29px;
+    margin-top: 10px;
+}
+
+#wwwNav{
+	display:none !important;
+}

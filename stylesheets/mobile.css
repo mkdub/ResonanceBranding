@@ -1,0 +1,294 @@
+body{
+}
+
+#mainStory p {
+	font-size:20px;
+	line-height:22px;
+}
+
+#logo{
+ 	background: url(../images/logo_mobile.png) no-repeat;
+ 	}
+
+.employee{
+	width:100%;
+	margin-bottom: 0px;
+	}
+	
+#mainContainer {
+    margin-left: 10px;
+    top:96px !important;
+}
+
+#workContainer{
+	display:block !important;
+}
+
+#workContainer{
+	margin-left: 10px;
+	top:116px !important;
+	
+}
+
+#homeHeader p {
+    font-size: 18px;
+    line-height: 18px;
+    }
+
+#arbor{
+	display:none;
+}
+
+
+.mainNav {
+    float: left;
+    left: -13px;
+    position: relative;
+    width:100%;
+    margin-bottom: 33px;
+    clear:both;
+}
+
+.mainNav li {
+	font-size: 17px;
+    height: 16px;
+    margin-bottom: -10px;
+    margin-top: 10px;
+    padding-left: 24px;
+    padding-top: 6px;
+}
+
+#navUnderline {
+	margin-left: 9px;
+	display:none;
+}
+
+#logo {
+	width:212px;
+	height: 60px;
+    margin-bottom: -17px;
+    float: none;
+ 	background: url(../images/logo_mobile.png) no-repeat;
+ 	left: 8px;
+}
+
+#socialBar {
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+
+#sideStory p {
+	font-size:14px;
+}
+
+.employee {
+    
+    }
+
+.employeeInfo {
+    float: left;
+    width: 98%;
+}	
+	
+
+#sideBar{
+	position:absolute;
+	z-index:50;
+	left:0px;
+	width:100%;
+	padding-right:0px;
+}
+
+#topBar {
+	height:110px;
+}
+
+#openNav{
+	background-color: #EEEEEE;
+    cursor: pointer;
+    display: block;
+    float: right;
+    padding: 10px 13px;
+    position: relative;
+    right: 6px;
+    text-transform: uppercase;
+    top: 33px;
+    clear:both;
+    display: none;
+}    
+    
+#workNav{
+	background-color:white;
+	z-index:50;
+ 	 left:0px;
+ 	 top:0px;
+ 	 display:none;
+ 	 padding-left:10px;
+}   
+
+#closeNav{
+	background: url(../images/close.png);
+	float: left;
+    height: 20px;
+    position: absolute;
+    right: 10px;
+    top: -7px;
+    width: 20px;
+    z-index: 340;
+    display:none;
+    cursor:pointer;
+}
+
+#headerLine{
+	height:43px;
+}
+
+#portfolioHeader {
+	font-size:22px;
+	width:100%;
+	top: 19px;
+	margin-bottom: 0px
+	line-height: 20px;
+}
+
+#location {
+	font-size:16px;
+	float:left;
+	top: -3px !important;
+}
+
+#category{
+	font-size:12px;
+}
+
+#desc{
+	font-size:14px;
+}
+
+#quickNav {
+	width:100%;
+}
+
+.projNav{
+	width:49%;
+	margin-left: 5px;
+	font-size:15px;
+	}
+
+.projNav p{
+	top:15px;
+}
+
+.projNav img{
+	height:20px;
+	top:5px;
+	padding:10px;
+}	
+	
+    
+#quickPrev{
+	margin-left:0px;
+}
+
+#videos iframe {
+    padding: 0;
+    width: 100%;
+}
+
+.wwwContent{
+    
+    position:relative;
+    float:left;
+}
+
+.aboutSide {
+    float:left;
+    width:100%;
+    position:relative;
+    left:0px;
+}
+
+#profiles{
+    
+    float:left;
+    position:relative;
+    width: 100%;
+}
+
+#mainAbout {
+    margin-left:5px;
+    top:100px;
+}
+
+.sideContent {
+    left:5px;
+    width:100%;
+}
+
+
+.whatBox{
+    
+     float: left;
+    position: relative;
+}
+
+.sideContent h2 {
+    font-size: 16px;
+}
+
+.sideContent li {
+    font-size: 13px;
+}
+
+.sideContent h1 {
+	margin-bottom:0px;
+}
+
+
+#whyHeadline{
+    font-size:35px !important;
+    margin-top: 12px;
+}
+
+#contactInfo p {
+    font-size: 20px;
+    }
+    
+ #arbor{   
+    top: 425px;
+    }
+    
+.stripBar {
+	margin-left: -280px;
+    width: 94% !important;
+    top: 100px;
+}
+
+#contactInfo {
+	top:0px;
+}
+
+#contactInfo p{
+    font-size: 19px;
+    line-height: 23px;
+}
+
+#wwwNav{
+	display:none !important;
+}
+
+#mainAbout {
+    margin-left:5px;
+    top:92px;
+}
+
+#mainHeader p {
+	font-size: 26px;
+    line-height: 23px;
+    padding-bottom: 22px;
+}
+
+.www h1 {
+	font-size:30px;
+}
